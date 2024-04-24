@@ -60,6 +60,7 @@ span{
 .detel p{
     color: #555;
     line-height: 22px;
+    width: 500px;
 }
 
 .detel a{
@@ -151,12 +152,7 @@ span{
     }
 }
 
-.portfolio-logo-gh {
-    width: 60px;
-    height: auto;
-}
-
-.portfolio-logo-p5 {
+.portfolio-logo {
     width: 40px;
     height: auto;
     margin-left: 10px;
